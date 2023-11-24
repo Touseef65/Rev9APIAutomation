@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="4.748" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="gnome"/>
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value=""/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/home/usman-dar/Desktop/RestAssured-master/target/test-classes:/home/usman-dar/Desktop/RestAssured-master/target/classes:/home/usman-dar/.m2/repository/io/rest-assured/rest-assured/5.1.1/rest-assured-5.1.1.jar:/home/usman-dar/.m2/repository/org/apache/groovy/groovy/4.0.1/groovy-4.0.1.jar:/home/usman-dar/.m2/repository/org/apache/groovy/groovy-xml/4.0.1/groovy-xml-4.0.1.jar:/home/usman-dar/.m2/repository/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar:/home/usman-dar/.m2/repository/org/apache/httpcomponents/httpcore/4.4.13/httpcore-4.4.13.jar:/home/usman-dar/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/home/usman-dar/.m2/repository/commons-codec/commons-codec/1.11/commons-codec-1.11.jar:/home/usman-dar/.m2/repository/org/apache/httpcomponents/httpmime/4.5.13/httpmime-4.5.13.jar:/home/usman-dar/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar:/home/usman-dar/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/home/usman-dar/.m2/repository/io/rest-assured/json-path/5.1.1/json-path-5.1.1.jar:/home/usman-dar/.m2/repository/org/apache/groovy/groovy-json/4.0.1/groovy-json-4.0.1.jar:/home/usman-dar/.m2/repository/io/rest-assured/rest-assured-common/5.1.1/rest-assured-common-5.1.1.jar:/home/usman-dar/.m2/repository/io/rest-assured/xml-path/5.1.1/xml-path-5.1.1.jar:/home/usman-dar/.m2/repository/org/apache/commons/commons-lang3/3.11/commons-lang3-3.11.jar:/home/usman-dar/.m2/repository/org/testng/testng/7.6.1/testng-7.6.1.jar:/home/usman-dar/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/home/usman-dar/.m2/repository/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar:/home/usman-dar/.m2/repository/com/beust/jcommander/1.82/jcommander-1.82.jar:/home/usman-dar/.m2/repository/org/webjars/jquery/3.6.0/jquery-3.6.0.jar:/home/usman-dar/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.13.3/jackson-databind-2.13.3.jar:/home/usman-dar/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.13.3/jackson-annotations-2.13.3.jar:/home/usman-dar/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.13.3/jackson-core-2.13.3.jar:/home/usman-dar/.m2/repository/io/qameta/allure/allure-testng/2.18.1/allure-testng-2.18.1.jar:/home/usman-dar/.m2/repository/io/qameta/allure/allure-java-commons/2.18.1/allure-java-commons-2.18.1.jar:/home/usman-dar/.m2/repository/io/qameta/allure/allure-model/2.18.1/allure-model-2.18.1.jar:/home/usman-dar/.m2/repository/io/qameta/allure/allure-test-filter/2.18.1/allure-test-filter-2.18.1.jar:/home/usman-dar/.m2/repository/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2.jar:/home/usman-dar/.m2/repository/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar:/home/usman-dar/.m2/repository/junit/junit/4.10/junit-4.10.jar:/home/usman-dar/.m2/repository/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar:/home/usman-dar/.m2/repository/ru/qatools/commons/properties/2.0.RC6/properties-2.0.RC6.jar:/home/usman-dar/.m2/repository/org/apache/logging/log4j/log4j-core/2.13.1/log4j-core-2.13.1.jar:/home/usman-dar/.m2/repository/org/apache/logging/log4j/log4j-api/2.13.1/log4j-api-2.13.1.jar:/home/usman-dar/.m2/repository/ru/yandex/qatools/allure/allure-java-annotations/1.4.4/allure-java-annotations-1.4.4.jar:/home/usman-dar/.m2/repository/ru/yandex/qatools/allure/allure-model/1.4.4/allure-model-1.4.4.jar:/home/usman-dar/.m2/repository/org/jvnet/jaxb2_commons/jaxb2-basics-runtime/0.6.5/jaxb2-basics-runtime-0.6.5.jar:/home/usman-dar/.m2/repository/ru/yandex/qatools/properties/properties-loader/1.5/properties-loader-1.5.jar:/home/usman-dar/.m2/repository/commons-beanutils/commons-beanutils-core/1.8.3/commons-beanutils-core-1.8.3.jar:/home/usman-dar/.m2/repository/org/slf4j/slf4j-log4j12/1.7.7/slf4j-log4j12-1.7.7.jar:/home/usman-dar/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar:"/>
+    <property name="java.vm.vendor" value="Ubuntu"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="https://ubuntu.com/"/>
+    <property name="user.timezone" value="Asia/Karachi"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Linux"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="/usr/lib/jvm/java-11-openjdk-amd64/lib"/>
+    <property name="sun.java.command" value="/home/usman-dar/Desktop/RestAssured-master/target/surefire/surefirebooter-20231124122958993_3.jar /home/usman-dar/Desktop/RestAssured-master/target/surefire 2023-11-24T12-29-58_850-jvmRun1 surefire-20231124122958993_1tmp surefire_0-20231124122958993_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="/home/usman-dar/Desktop/RestAssured-master/target/test-classes:/home/usman-dar/Desktop/RestAssured-master/target/classes:/home/usman-dar/.m2/repository/io/rest-assured/rest-assured/5.1.1/rest-assured-5.1.1.jar:/home/usman-dar/.m2/repository/org/apache/groovy/groovy/4.0.1/groovy-4.0.1.jar:/home/usman-dar/.m2/repository/org/apache/groovy/groovy-xml/4.0.1/groovy-xml-4.0.1.jar:/home/usman-dar/.m2/repository/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar:/home/usman-dar/.m2/repository/org/apache/httpcomponents/httpcore/4.4.13/httpcore-4.4.13.jar:/home/usman-dar/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/home/usman-dar/.m2/repository/commons-codec/commons-codec/1.11/commons-codec-1.11.jar:/home/usman-dar/.m2/repository/org/apache/httpcomponents/httpmime/4.5.13/httpmime-4.5.13.jar:/home/usman-dar/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar:/home/usman-dar/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/home/usman-dar/.m2/repository/io/rest-assured/json-path/5.1.1/json-path-5.1.1.jar:/home/usman-dar/.m2/repository/org/apache/groovy/groovy-json/4.0.1/groovy-json-4.0.1.jar:/home/usman-dar/.m2/repository/io/rest-assured/rest-assured-common/5.1.1/rest-assured-common-5.1.1.jar:/home/usman-dar/.m2/repository/io/rest-assured/xml-path/5.1.1/xml-path-5.1.1.jar:/home/usman-dar/.m2/repository/org/apache/commons/commons-lang3/3.11/commons-lang3-3.11.jar:/home/usman-dar/.m2/repository/org/testng/testng/7.6.1/testng-7.6.1.jar:/home/usman-dar/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/home/usman-dar/.m2/repository/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar:/home/usman-dar/.m2/repository/com/beust/jcommander/1.82/jcommander-1.82.jar:/home/usman-dar/.m2/repository/org/webjars/jquery/3.6.0/jquery-3.6.0.jar:/home/usman-dar/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.13.3/jackson-databind-2.13.3.jar:/home/usman-dar/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.13.3/jackson-annotations-2.13.3.jar:/home/usman-dar/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.13.3/jackson-core-2.13.3.jar:/home/usman-dar/.m2/repository/io/qameta/allure/allure-testng/2.18.1/allure-testng-2.18.1.jar:/home/usman-dar/.m2/repository/io/qameta/allure/allure-java-commons/2.18.1/allure-java-commons-2.18.1.jar:/home/usman-dar/.m2/repository/io/qameta/allure/allure-model/2.18.1/allure-model-2.18.1.jar:/home/usman-dar/.m2/repository/io/qameta/allure/allure-test-filter/2.18.1/allure-test-filter-2.18.1.jar:/home/usman-dar/.m2/repository/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2.jar:/home/usman-dar/.m2/repository/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar:/home/usman-dar/.m2/repository/junit/junit/4.10/junit-4.10.jar:/home/usman-dar/.m2/repository/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar:/home/usman-dar/.m2/repository/ru/qatools/commons/properties/2.0.RC6/properties-2.0.RC6.jar:/home/usman-dar/.m2/repository/org/apache/logging/log4j/log4j-core/2.13.1/log4j-core-2.13.1.jar:/home/usman-dar/.m2/repository/org/apache/logging/log4j/log4j-api/2.13.1/log4j-api-2.13.1.jar:/home/usman-dar/.m2/repository/ru/yandex/qatools/allure/allure-java-annotations/1.4.4/allure-java-annotations-1.4.4.jar:/home/usman-dar/.m2/repository/ru/yandex/qatools/allure/allure-model/1.4.4/allure-model-1.4.4.jar:/home/usman-dar/.m2/repository/org/jvnet/jaxb2_commons/jaxb2-basics-runtime/0.6.5/jaxb2-basics-runtime-0.6.5.jar:/home/usman-dar/.m2/repository/ru/yandex/qatools/properties/properties-loader/1.5/properties-loader-1.5.jar:/home/usman-dar/.m2/repository/commons-beanutils/commons-beanutils-core/1.8.3/commons-beanutils-core-1.8.3.jar:/home/usman-dar/.m2/repository/org/slf4j/slf4j-log4j12/1.7.7/slf4j-log4j12-1.7.7.jar:/home/usman-dar/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/home/usman-dar"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2023-08-24"/>
+    <property name="java.home" value="/usr/lib/jvm/java-11-openjdk-amd64"/>
+    <property name="file.separator" value="/"/>
+    <property name="basedir" value="/home/usman-dar/Desktop/RestAssured-master"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="/home/usman-dar/Desktop/RestAssured-master/target/surefire/surefirebooter-20231124122958993_3.jar"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.20.1+1-post-Ubuntu-0ubuntu122.04"/>
+    <property name="user.name" value="usman-dar"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="6.2.0-37-generic"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="/home/usman-dar/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="https://bugs.launchpad.net/ubuntu/+source/openjdk-lts"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="java.version" value="11.0.20.1"/>
+    <property name="user.dir" value="/home/usman-dar/Desktop/RestAssured-master"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.library.path" value="/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Ubuntu"/>
+    <property name="java.vm.version" value="11.0.20.1+1-post-Ubuntu-0ubuntu122.04"/>
+    <property name="java.specification.maintenance.version" value="2"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="superKiwi" classname="testcases.getPusherCreds" time="3.777">
+    <system-out><![CDATA[Classpath: /home/usman-dar/Desktop/RestAssured-master/target/test-classes:/home/usman-dar/Desktop/RestAssured-master/target/classes:/home/usman-dar/.m2/repository/io/rest-assured/rest-assured/5.1.1/rest-assured-5.1.1.jar:/home/usman-dar/.m2/repository/org/apache/groovy/groovy/4.0.1/groovy-4.0.1.jar:/home/usman-dar/.m2/repository/org/apache/groovy/groovy-xml/4.0.1/groovy-xml-4.0.1.jar:/home/usman-dar/.m2/repository/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar:/home/usman-dar/.m2/repository/org/apache/httpcomponents/httpcore/4.4.13/httpcore-4.4.13.jar:/home/usman-dar/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/home/usman-dar/.m2/repository/commons-codec/commons-codec/1.11/commons-codec-1.11.jar:/home/usman-dar/.m2/repository/org/apache/httpcomponents/httpmime/4.5.13/httpmime-4.5.13.jar:/home/usman-dar/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar:/home/usman-dar/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/home/usman-dar/.m2/repository/io/rest-assured/json-path/5.1.1/json-path-5.1.1.jar:/home/usman-dar/.m2/repository/org/apache/groovy/groovy-json/4.0.1/groovy-json-4.0.1.jar:/home/usman-dar/.m2/repository/io/rest-assured/rest-assured-common/5.1.1/rest-assured-common-5.1.1.jar:/home/usman-dar/.m2/repository/io/rest-assured/xml-path/5.1.1/xml-path-5.1.1.jar:/home/usman-dar/.m2/repository/org/apache/commons/commons-lang3/3.11/commons-lang3-3.11.jar:/home/usman-dar/.m2/repository/org/testng/testng/7.6.1/testng-7.6.1.jar:/home/usman-dar/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/home/usman-dar/.m2/repository/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar:/home/usman-dar/.m2/repository/com/beust/jcommander/1.82/jcommander-1.82.jar:/home/usman-dar/.m2/repository/org/webjars/jquery/3.6.0/jquery-3.6.0.jar:/home/usman-dar/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.13.3/jackson-databind-2.13.3.jar:/home/usman-dar/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.13.3/jackson-annotations-2.13.3.jar:/home/usman-dar/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.13.3/jackson-core-2.13.3.jar:/home/usman-dar/.m2/repository/io/qameta/allure/allure-testng/2.18.1/allure-testng-2.18.1.jar:/home/usman-dar/.m2/repository/io/qameta/allure/allure-java-commons/2.18.1/allure-java-commons-2.18.1.jar:/home/usman-dar/.m2/repository/io/qameta/allure/allure-model/2.18.1/allure-model-2.18.1.jar:/home/usman-dar/.m2/repository/io/qameta/allure/allure-test-filter/2.18.1/allure-test-filter-2.18.1.jar:/home/usman-dar/.m2/repository/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2.jar:/home/usman-dar/.m2/repository/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar:/home/usman-dar/.m2/repository/junit/junit/4.10/junit-4.10.jar:/home/usman-dar/.m2/repository/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar:/home/usman-dar/.m2/repository/ru/qatools/commons/properties/2.0.RC6/properties-2.0.RC6.jar:/home/usman-dar/.m2/repository/org/apache/logging/log4j/log4j-core/2.13.1/log4j-core-2.13.1.jar:/home/usman-dar/.m2/repository/org/apache/logging/log4j/log4j-api/2.13.1/log4j-api-2.13.1.jar:/home/usman-dar/.m2/repository/ru/yandex/qatools/allure/allure-java-annotations/1.4.4/allure-java-annotations-1.4.4.jar:/home/usman-dar/.m2/repository/ru/yandex/qatools/allure/allure-model/1.4.4/allure-model-1.4.4.jar:/home/usman-dar/.m2/repository/org/jvnet/jaxb2_commons/jaxb2-basics-runtime/0.6.5/jaxb2-basics-runtime-0.6.5.jar:/home/usman-dar/.m2/repository/ru/yandex/qatools/properties/properties-loader/1.5/properties-loader-1.5.jar:/home/usman-dar/.m2/repository/commons-beanutils/commons-beanutils-core/1.8.3/commons-beanutils-core-1.8.3.jar:/home/usman-dar/.m2/repository/org/slf4j/slf4j-log4j12/1.7.7/slf4j-log4j12-1.7.7.jar:/home/usman-dar/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar:
+Loaded baseUrl: http://beta.superkiwi.do/app-api/1.0
+Returning baseUrl: http://beta.superkiwi.do/app-api/1.0
+HTTP/1.1 200 OK
+Date: Fri, 24 Nov 2023 07:30:02 GMT
+Server: Apache/2.4.41 (Ubuntu)
+Set-Cookie: PHPSESSID=vq99alcb6p1heftvetio5qau3c; path=/; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Content-Length: 149
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>{"status":200,"Pusher_App_Id":"1520192","Pusher_App_Key":"04d63b2a316f46a77153","Pusher_App_Secret":"d3f39de6e7031b661777","Pusher_App_Cluster":"mt1","Pusher_Port":"443","Pusher_Scheme":"https"}</body>
+</html>
+Total Number of pages is: null
+Total records from Response is: null
+Pusher App id is :1520192
+]]></system-out>
+  </testcase>
+</testsuite>

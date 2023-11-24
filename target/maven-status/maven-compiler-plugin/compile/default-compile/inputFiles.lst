@@ -1,0 +1,13 @@
+/home/usman-dar/Desktop/RestAssured-master/src/main/java/testcases/deleteUser.java
+/home/usman-dar/Desktop/RestAssured-master/src/main/java/testcases/createUser.java
+/home/usman-dar/Desktop/RestAssured-master/src/main/java/testcases/getPusherCreds.java
+/home/usman-dar/Desktop/RestAssured-master/src/main/java/constants/EndPoints.java
+/home/usman-dar/Desktop/RestAssured-master/src/main/java/helpers/PersonServiceHelper.java
+/home/usman-dar/Desktop/RestAssured-master/src/main/java/config/ApplicationConfigReader.java
+/home/usman-dar/Desktop/RestAssured-master/src/main/java/utils/ConfigManager.java
+/home/usman-dar/Desktop/RestAssured-master/src/main/java/config/configProperties.java
+/home/usman-dar/Desktop/RestAssured-master/src/main/java/testcases/GETUsers.java
+/home/usman-dar/Desktop/RestAssured-master/src/main/java/Payload/payload.java
+/home/usman-dar/Desktop/RestAssured-master/src/main/java/testcases/updateUser.java
+/home/usman-dar/Desktop/RestAssured-master/src/main/java/testcases/updatePatch.java
+/home/usman-dar/Desktop/RestAssured-master/src/main/java/model/Person.java
